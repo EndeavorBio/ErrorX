@@ -7,3 +7,5 @@ ErrorX solves this problem by using deep neural networks to predict sites where 
 ErrorX currently supports processing of antibody and T-cell repertoire sequencing data from human and mice, gathered on Illumina HiSeq and MiSeq instruments.
 
 See the [documentation page](https://endeavorbio.com/2019/02/01/documentation/) for more information on how to set up error correction.
+
+Copyright (c) 2019-2020, Alex Sevy. All Rights Reserved
